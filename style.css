@@ -5,14 +5,14 @@
 }
 
 body {
-  background-color: rgb(161, 100, 223);
+  background-color: rgb(160, 95, 220);
   font-family: 'Poppins', sans-serif;
-  display: flex-in;
+  display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 90vh;
+  height: 105vh;
   overflow: hidden;
   margin: 0;
 }
