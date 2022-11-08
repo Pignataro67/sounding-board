@@ -24,14 +24,14 @@ body {
   border: none;
   color: #fff;
   margin: 1rem;
-  padding: 1.7rem 7rem;
-  font-size: 1.4rem;
+  padding: 1.7rem 5rem;
+  font-size: 1.2rem;
   font-family: inherit;
   cursor: pointer;
 }
 
 .btn:hover {
-    opacity: 0.9;
+    opacity: 0.8;
   }
 
 .btn:focus {
