@@ -16,3 +16,7 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
+.btn:hover {
+  opacity: 0.9;
+}
