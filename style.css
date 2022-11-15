@@ -17,6 +17,11 @@ body {
   margin: 0;
 }
 
+.btn {
+  background-color: rebeccapurple;
+  border-radius: 5px;
+}
+
 .btn:hover {
   opacity: 0.9;
 }
