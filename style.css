@@ -5,16 +5,12 @@
 }
 
 body {
-  background-color: #2b77e0;
-  font-family: 'Muli', sans-serif;
-  display: flex;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  text-align: center;
-  height: 95vh;
+  height: 100vh;
   overflow: hidden;
   margin: 0;
+  padding: 20px;s
 }
 
 .btn {
