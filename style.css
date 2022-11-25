@@ -15,3 +15,9 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
+.key {
+  border: 1px solid #999999;
+  background-color: #2B2B2B;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
